@@ -10,7 +10,7 @@ body{
 .backgroundimg {
     width: 100% ;
     height: 100vh ;
-    background-image: linear-gradient(rgba(0,0,0,0.7) , rgba(0,0,0,0.7)), url(/Images/IN-en-20250217-TRIFECTA-perspective_c3376e06-9aff-4657-aafb-91256a597b7c_large.jpg) ;
+    background-image: linear-gradient(rgba(0,0,0,0.7) , rgba(0,0,0,0.7)), url(Images/IN-en-20250217-TRIFECTA-perspective_c3376e06-9aff-4657-aafb-91256a597b7c_large.jpg) ;
     background-position: center;
     background-size: cover ; 
     padding: 0px 10%;
